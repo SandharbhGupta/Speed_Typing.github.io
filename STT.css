@@ -1,0 +1,71 @@
+.bg_container {
+    background-image: linear-gradient(to left, #dac0ff, #f3eaff);
+    background-size: cover;
+    height: 100%;
+}
+
+.main_heading {
+    color: #690cb0;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.para {
+    color: #3e4c59;
+    font-weight: 600;
+}
+
+.clock_Image {
+    height: 60px;
+    width: 60px;
+}
+
+.Timer {
+    color: #323f4b;
+    font-size: 50px;
+}
+
+.quoteCOntaunuer {
+    border-radius: 20px;
+    background-color: #f2ebfe;
+    /* padding: 15px; */
+    border: 2px solid #9aa5b1;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.quote_para {
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.result_para {
+    color: #3e4c59;
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.submit_btn {
+    background-color: #690cb0;
+    border-radius: 10px;
+    padding: 8px;
+    color: white;
+    border-width: 0px;
+}
+
+.reset_btn {
+    /* background-color: #690cb0; */
+    border-radius: 10px;
+    padding: 8px;
+    color: black;
+    font-weight: bold;
+    border-width: 0px;
+}
+
+.sec {
+    color: #3e4c59;
+    font-size: 10px;
+    font-weight: 900;
+}
